@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  ViewTransitionsSwift
-//
-//  Created by Shawn Flahave on 4/25/17.
-//  Copyright © 2017 Shawn Flahave. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
